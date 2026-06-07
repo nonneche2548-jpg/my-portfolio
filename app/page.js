@@ -8,7 +8,7 @@ export default function Home() {
         <h1 className="text-7xl font-bold mb-4">
            {name}
         </h1>
-        <p className="text-xl">Web Developer · Bangkok</p>
+        <p className="text-xl">Web Developer · Bangkok.</p>
         <div className="flex gap-4 justify-center">
           <button className="bg-white text-black hover:bg-gray-200 font-bold py-2 px-4 rounded">
             Projects
